@@ -5,6 +5,6 @@ VEX Autonomous Code for bots with at least two encoders (preferably on the axles
 The code has currently not been tested, but, in theory, should work on all of the bots made.
 
 The only changes that need to be made to the code before actual use is updating the degree to tick ratio constant (DEGRAT) 
-and the wheel diameter constant.
+and the wheel diameter constant (I'll be adding something to help calculate the degree to tick ratio later).
 
 If there are issues, please tell me right away.
